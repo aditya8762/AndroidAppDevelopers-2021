@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">InternshipProgram</string>
+    <string name="enter_your_aadhaar_number">Enter your Aadhaar Number</string>
+    <string name="digilocker_uses_aadhaar_otp_implementation_to_verify_users_and_fetch_orginal_documents">DigiLocker Uses Aadhaar OTP implementation to verify users and fetch orginal documents.</string>
+    <string name="next">next</string>
+    <string name="don_t_want_to_use_aadhaar">Don\'t want to use Aadhaar?</string>
+    <string name="todo">TODO</string>
 </resources>
